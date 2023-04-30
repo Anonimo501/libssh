@@ -1,8 +1,11 @@
 # libssh
 
-Ejecucion de comandos 
-libssh 
-CVE-2018-10933 
+Ataque: RCE Ejecucion de comandos remoto
+
+Servicio: libssh 
+
+CVE: CVE-2018-10933 
+
 (Ambos exploits cumplen la misma funcion - ya va en gusto usar el que desee)
 
 # Exploit 1
