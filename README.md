@@ -27,6 +27,7 @@ https://t.me/r4ndonn
 ![exploit-libssh](https://user-images.githubusercontent.com/67207446/235363870-a5953fcf-072e-4c78-92fe-734cd9442c96.png)
 
 python3 script_name.py 192.168.1.10 22 ls
+
 python3 script_name.py 192.168.1.10 22 "hostname -I"
 
 # Exploit 2
