@@ -6,7 +6,7 @@ Servicio: libssh
 
 CVE: CVE-2018-10933 
 
-(Ambos exploits cumplen la misma funcion - ya va en gusto usar el que desee)
+(Ambos exploits cumplen la misma funcion - ya va en gusto usar el que desee, la visualizacion es diferente asi que recomiendo prueben ambos)
 
 # Redes
 
